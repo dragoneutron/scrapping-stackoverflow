@@ -1,0 +1,254 @@
+[
+  {
+    "url": "https://stackoverflow.com/users/56256/nick",
+    "avatar": "https://www.gravatar.com/avatar/e57808f4634d221405c81d00b2e12b16?s=96&d=identicon&r=PG",
+    "username": "Nick",
+    "topskill": "javascript, jquery, c#",
+    "location": "Boise, ID"
+  },
+  {
+    "url": "https://stackoverflow.com/users/2839786/aziz-alto",
+    "avatar": "https://i.stack.imgur.com/gkczH.jpg?s=128&g=1",
+    "username": "Aziz Alto",
+    "topskill": "python, numpy, count",
+    "location": "Manhattan, NY"
+  },
+  {
+    "url": "https://stackoverflow.com/users/1171191/bobtfish",
+    "avatar": "https://www.gravatar.com/avatar/f9e7708869e2b3234fbf0e34c9506742?s=96&d=identicon&r=PG",
+    "username": "BoBTFish",
+    "topskill": "c++, stl, pointers",
+    "location": "United Kingdom"
+  },
+  {
+    "url": "https://stackoverflow.com/users/111375/t-stone",
+    "avatar": "https://www.gravatar.com/avatar/35653acd3123aa1b4b0efad1bed9122c?s=96&d=identicon&r=PG",
+    "username": "T. Stone",
+    "topskill": "django, python, django-models",
+    "location": "Denver, CO"
+  },
+  {
+    "url": "https://stackoverflow.com/users/1248295/elektrostudios",
+    "avatar": "https://i.stack.imgur.com/g9kGm.png?s=128&g=1",
+    "username": "ElektroStudios",
+    "topskill": "vb.net, .net, c#",
+    "location": "Valencia, Spain"
+  },
+  {
+    "url": "https://stackoverflow.com/users/924077/bogdan-sahlean",
+    "avatar": "https://i.stack.imgur.com/KoWhX.png?s=128&g=1",
+    "username": "Bogdan Sahlean",
+    "topskill": "sql-server, sql, t-sql",
+    "location": "Bucharest, Romania"
+  },
+  {
+    "url": "https://stackoverflow.com/users/3839882/kha",
+    "avatar": "https://www.gravatar.com/avatar/da2db2bc8626ae0b2ad5700012e03b36?s=96&d=identicon&r=PG&f=y&so-version=2",
+    "username": "kha",
+    "topskill": "elasticsearch, angular, sleep",
+    "location": ""
+  },
+  {
+    "url": "https://stackoverflow.com/users/251162/aaron-yodaiken",
+    "avatar": "https://i.stack.imgur.com/I89rx.jpg?s=128&g=1",
+    "username": "Aaron Yodaiken",
+    "topskill": "javascript, scala, c",
+    "location": "United States"
+  },
+  {
+    "url": "https://stackoverflow.com/users/77546/damovisa",
+    "avatar": "https://i.stack.imgur.com/SHNzv.jpg?s=128&g=1",
+    "username": "Damovisa",
+    "topskill": "javascript, setinterval, c#",
+    "location": "Australia"
+  },
+  {
+    "url": "https://stackoverflow.com/users/65611/joel",
+    "avatar": "https://www.gravatar.com/avatar/a8241c4c6ea1b340feb45b143aa269a8?s=96&d=identicon&r=PG",
+    "username": "Joel",
+    "topskill": "jquery, javascript, css",
+    "location": "Virginia, USA"
+  },
+  {
+    "url": "https://stackoverflow.com/users/159388/murgatroid99",
+    "avatar": "https://www.gravatar.com/avatar/2891cf8a08784976cf1643f5009a4f59?s=96&d=identicon&r=PG",
+    "username": "murgatroid99",
+    "topskill": "python, grpc, node.js",
+    "location": "California"
+  },
+  {
+    "url": "https://stackoverflow.com/users/487033/doelleri",
+    "avatar": "https://www.gravatar.com/avatar/f0c8f1a92d2086c31f448e1d66e28ddc?s=96&d=identicon&r=PG&f=y&so-version=2",
+    "username": "doelleri",
+    "topskill": "git, groovy, grails",
+    "location": "United States"
+  },
+  {
+    "url": "https://stackoverflow.com/users/9702/jeremy-stein",
+    "avatar": "https://i.stack.imgur.com/yz1vF.jpg?s=128&g=1",
+    "username": "Jeremy Stein",
+    "topskill": "java, regex, sql-server",
+    "location": "United States"
+  },
+  {
+    "url": "https://stackoverflow.com/users/2912282/milan-nos%c3%a1%c4%be",
+    "avatar": "https://i.stack.imgur.com/5HEmE.jpg?s=128&g=1",
+    "username": "Milan Nos\u00e1\u013e",
+    "topskill": "ios, swift, uitableview",
+    "location": ""
+  },
+  {
+    "url": "https://stackoverflow.com/users/777764/baaroz",
+    "avatar": "https://www.gravatar.com/avatar/985880d7dd74c2deb359528908442d0e?s=96&d=identicon&r=PG",
+    "username": "baaroz",
+    "topskill": "html, css, css-position",
+    "location": ""
+  },
+  {
+    "url": "https://stackoverflow.com/users/59470/topchef",
+    "avatar": "https://i.stack.imgur.com/XR1wa.png?s=128&g=1",
+    "username": "topchef",
+    "topskill": "java, sql, r",
+    "location": "Dallas, TX"
+  },
+  {
+    "url": "https://stackoverflow.com/users/800457/xml",
+    "avatar": "https://www.gravatar.com/avatar/26ffd0a9e4790fe74a7ccb57983708ef?s=96&d=identicon&r=PG",
+    "username": "XML",
+    "topskill": "javascript, angularjs, npm",
+    "location": "Washington, DC"
+  },
+  {
+    "url": "https://stackoverflow.com/users/5550507/sibeesh-venu",
+    "avatar": "https://i.stack.imgur.com/CA3Wj.jpg?s=128&g=1",
+    "username": "Sibeesh Venu",
+    "topskill": "asp.net-core, c#, visual-studio-2017",
+    "location": "Dublin, Ireland"
+  },
+  {
+    "url": "https://stackoverflow.com/users/525036/didier-l",
+    "avatar": "https://www.gravatar.com/avatar/2cb78e30e3a47ab2311e1ccb83f5ee88?s=96&d=identicon&r=PG",
+    "username": "Didier L",
+    "topskill": "java, java-8, completable-future",
+    "location": "Brussels, Belgium"
+  },
+  {
+    "url": "https://stackoverflow.com/users/119326/cfreak",
+    "avatar": "https://www.gravatar.com/avatar/b29825e83c1da695da0e22b4198a0105?s=96&d=identicon&r=PG",
+    "username": "Cfreak",
+    "topskill": "php, javascript, html",
+    "location": "Dallas, Texas, United States"
+  },
+  {
+    "url": "https://stackoverflow.com/users/218783/alexander-oleynikov",
+    "avatar": "https://www.gravatar.com/avatar/9ece4b739af5573d43c527c787ab0c81?s=96&d=identicon&r=PG",
+    "username": "Alexander Oleynikov",
+    "topskill": "android, keyboard, layout",
+    "location": ""
+  },
+  {
+    "url": "https://stackoverflow.com/users/5700898/owlswipe",
+    "avatar": "https://i.stack.imgur.com/RyobC.png?s=128&g=1",
+    "username": "owlswipe",
+    "topskill": "swift, swift3, dispatch-after",
+    "location": "New York"
+  },
+  {
+    "url": "https://stackoverflow.com/users/1643946/bonlenfum",
+    "avatar": "https://www.gravatar.com/avatar/799d43bdc55d1098d2f02de64ace2a39?s=96&d=identicon&r=PG",
+    "username": "Bonlenfum",
+    "topskill": "python, yaml, pyyaml",
+    "location": ""
+  },
+  {
+    "url": "https://stackoverflow.com/users/1340582/user1340582",
+    "avatar": "https://www.gravatar.com/avatar/bf8ea1db8b578e7fab08e9a787acb911?s=96&d=identicon&r=PG",
+    "username": "user1340582",
+    "topskill": "java, difference, jenkins",
+    "location": ""
+  },
+  {
+    "url": "https://stackoverflow.com/users/439667/ibrahim-najjar",
+    "avatar": "https://www.gravatar.com/avatar/1fc30a5404b02b3df2d919868753d605?s=96&d=identicon&r=PG",
+    "username": "Ibrahim Najjar",
+    "topskill": "regex, c#, .net",
+    "location": "The Hague, Netherlands"
+  },
+  {
+    "url": "https://stackoverflow.com/users/319741/scott-c-wilson",
+    "avatar": "https://www.gravatar.com/avatar/b625972bd759abcd3de0d2283617a1b7?s=96&d=identicon&r=PG",
+    "username": "Scott C Wilson",
+    "topskill": "python, php, r",
+    "location": "Tampa, FL"
+  },
+  {
+    "url": "https://stackoverflow.com/users/296106/c-maker",
+    "avatar": "https://i.stack.imgur.com/GQXfx.png?s=128&g=1",
+    "username": "c_maker",
+    "topskill": "gradle, java, gaelyk",
+    "location": ""
+  },
+  {
+    "url": "https://stackoverflow.com/users/1911755/raphael-rafatpanah",
+    "avatar": "https://i.stack.imgur.com/ipUpn.jpg?s=128&g=1",
+    "username": "Raphael Rafatpanah",
+    "topskill": "javascript, reactjs, react-router",
+    "location": "Worcester, MA, United States"
+  },
+  {
+    "url": "https://stackoverflow.com/users/46571/isekaijin",
+    "avatar": "https://www.gravatar.com/avatar/79eede5b02caa81db17f34026b24a734?s=96&d=identicon&r=PG",
+    "username": "isekaijin",
+    "topskill": "rust, garbage-collection, allocation",
+    "location": "Home"
+  },
+  {
+    "url": "https://stackoverflow.com/users/19130/aaron",
+    "avatar": "https://www.gravatar.com/avatar/391bf3aa1af6f02f000644e540f4a948?s=96&d=identicon&r=PG",
+    "username": "Aaron",
+    "topskill": "language-agnostic, oop, terminology",
+    "location": ""
+  },
+  {
+    "url": "https://stackoverflow.com/users/742249/felipe-buccioni",
+    "avatar": "https://www.gravatar.com/avatar/2e365ac3ac207524ec99a482ae3737e7?s=96&d=identicon&r=PG",
+    "username": "Felipe Buccioni",
+    "topskill": "mysql, sql, database",
+    "location": "Chile"
+  },
+  {
+    "url": "https://stackoverflow.com/users/357189/ina",
+    "avatar": "https://www.gravatar.com/avatar/0419959b0df88db1e2fe2d08a4789908?s=96&d=identicon&r=PG",
+    "username": "ina",
+    "topskill": "php, arrays, css",
+    "location": "San Francisco, CA"
+  },
+  {
+    "url": "https://stackoverflow.com/users/2430549/holdoffhunger",
+    "avatar": "https://www.gravatar.com/avatar/7bfc7728cf3e556a8b9da88e662f4fd3?s=96&d=identicon&r=PG",
+    "username": "HoldOffHunger",
+    "topskill": "grep, javascript, linkedin-api",
+    "location": "Remote"
+  },
+  {
+    "url": "https://stackoverflow.com/users/452521/thr",
+    "avatar": "https://www.gravatar.com/avatar/c66daedbfd582bf11e4f35c3ef95658f?s=96&d=identicon&r=PG",
+    "username": "thr",
+    "topskill": "c#, .net, python",
+    "location": ""
+  },
+  {
+    "url": "https://stackoverflow.com/users/879664/sundaymonday",
+    "avatar": "https://www.gravatar.com/avatar/a4db2aaae4dc8a4e7ce09d6f9b694e9f?s=96&d=identicon&r=PG",
+    "username": "SundayMonday",
+    "topskill": "ios, grand-central-dispatch, concurrency",
+    "location": ""
+  },
+  {
+    "url": "https://stackoverflow.com/users/440336/jason-rogers",
+    "avatar": "https://www.gravatar.com/avatar/6a1d93f753d89c72c75d98acff867c54?s=96&d=identicon&r=PG",
+    "username": "Jason Rogers",
+    "topskill": "android, java, eclipse",
+    "location": "Tokyo, Japan"
+  }
+]
